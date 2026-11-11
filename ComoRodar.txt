@@ -1,0 +1,8 @@
+Primeira vez:
+python -m venv venv
+venv\Scripts\activate
+pip install -r dependencias.txt
+python plot.py
+
+Demais vezes:
+python plot.py
